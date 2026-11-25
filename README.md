@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/SauravPatel64/leet-code-/tree/master/0217-contains-duplicate) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SauravPatel64/leet-code-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SauravPatel64/leet-code-/tree/master/0852-peak-index-in-a-mountain-array) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/SauravPatel64/leet-code-/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/SauravPatel64/leet-code-/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
